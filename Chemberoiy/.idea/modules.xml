@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Chemberoiy.iml" filepath="$PROJECT_DIR$/.idea/modules/Chemberoiy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/Chemberoiy.android.iml" filepath="$PROJECT_DIR$/.idea/modules/android/Chemberoiy.android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/Chemberoiy.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/Chemberoiy.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/Chemberoiy.desktop.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/Chemberoiy.desktop.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+com/sung/project/R.java
+ com.sung.project.R
+ com.sung.project.R$color
+ com.sung.project.R$drawable
+ com.sung.project.R$string
+ com.sung.project.R$style
+com/sung/project/BuildConfig.java
+ com.sung.project.BuildConfig
+com/sung/project/AndroidLauncher.java
+ com.sung.project.AndroidLauncher

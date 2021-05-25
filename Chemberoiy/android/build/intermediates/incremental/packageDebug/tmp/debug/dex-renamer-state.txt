@@ -1,0 +1,4 @@
+#Tue May 25 11:33:42 VLAT 2021
+base.0=F\:\\Chemberoiy\\android\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
